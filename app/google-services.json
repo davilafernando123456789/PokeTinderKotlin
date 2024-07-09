@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311910603130",
+    "project_id": "poketinder-34ffc",
+    "storage_bucket": "poketinder-34ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311910603130:android:66fa7e57087a1f5fc29ec3",
+        "android_client_info": {
+          "package_name": "com.mendoza.ana.poketinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311910603130-8unaja6poj8j0khjeub52megeik89g1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Pzhsez3lnFuCJ1SaAJwxG8P5N76SyzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311910603130-8unaja6poj8j0khjeub52megeik89g1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
